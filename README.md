@@ -1,4 +1,4 @@
-<h2 align="left">HI! My name is Lua and I'm a science computer student from UFG</h2>
+<h2 align="left">HI! My name is Lua and I'm a computer science student from UFG</h2>
 
 ###
 
